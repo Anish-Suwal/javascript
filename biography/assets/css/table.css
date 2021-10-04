@@ -1,0 +1,146 @@
+.primary-table tr td{
+	padding-bottom: 10px;
+}
+.primary-table tr td:first-child{
+	font-weight:bold;
+	font-size: 18px;
+	padding-right:8px;
+	text-transform: capitalize;
+}
+
+
+.eductaion-section h2{
+	color:teal;
+}
+.eductaion-section{
+	padding-bottom:30px;
+}
+.work-section h2{
+	color:teal;
+}
+.work-section{
+	padding-bottom:30px;
+}
+.hobbies h2{
+	color:teal;
+}
+.primary-table{
+	padding: 15px 30px;
+	box-shadow:0 0 3px 7px #eee;
+}
+.work-desc-wrapper{
+	box-shadow:0 0 3px 7px #eee;
+	
+}
+.work-desc{
+	padding-left:20px;
+}
+.line{
+	height:1px;
+	width:100%;
+	background:#eee;
+
+	
+}
+.hobbies{
+	text-align: center;
+}
+.hobbies:before,
+.hobbies:after{
+	clear: both;
+	display: block;
+	content: '';
+}
+.primary-table{
+	text-transform: capitalize;
+}
+.hobbies h2{
+	color: teal;
+}
+.hobbies-list ul{
+	list-style: none;
+	font-weight: bold;
+}
+.hobbies-list ul li{
+	padding-top: 20px;
+	padding-bottom: 30px;
+	display: inline-block;
+	padding-left: 10px;
+}
+.hobbies-list ul li .icon{
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	background: white;
+	border: 1px solid lightsteelblue;
+	border-radius: 100%;
+	color:teal;
+	text-align: center;
+	font-size: 23px;
+	line-height: 50px;
+}
+.hobbies-list span{
+	display: block;
+}
+.primary-table tr td:first-child{
+	font-weight: bold;
+	padding-right: 30px;
+	font-size: 18px;
+	text-transform: capitalize;
+}
+.work-section h4{
+	color: teal;
+}
+
+.work-section .container .work-desc-wrapper{
+	box-shadow: 0 0 3px 7px #eee;
+}
+.work-desc-wrapper{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.primary-table{
+	padding: 15px 30px;
+	box-shadow: 0 0 3px 7px #eee;
+}
+.progress{
+	background:#eee;
+	height: 10px;
+	position: relative;
+}
+.progress .progress-bar{
+	height:10px;
+	background: skyblue;
+	position: relative;
+
+}
+.progress .progress-bar span{
+	display: inline-block;
+	height: 35px;
+	width: 35px;
+	background: white;
+	border: 1px solid;
+	border-radius: 100%;
+	text-align: center;
+	font-size: 13px;
+	line-height: 30px;
+	margin-right: 5px;
+
+}
+.progress .progress-bar span{
+	position: relative;
+	left: 96%;
+	top: -15px;
+	color:teal;
+}
+.progress:after{
+	display: block;
+	content: '';
+}
+.skills label{
+	display: block;
+	margin: 15px 0;
+}
+.skills-list{
+	padding-bottom:30px;
+}
